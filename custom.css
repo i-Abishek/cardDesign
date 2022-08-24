@@ -1,0 +1,13 @@
+/* .carousel-inner {
+    max-height: 569px;
+}
+
+.carousel-indicators img {
+    max-width: 100px;
+} */
+
+@media (min-width: 400px) {
+    .container {
+        min-height: 700px;
+    }
+}
